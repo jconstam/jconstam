@@ -1,6 +1,6 @@
 ## Hi There! :wave:
 
-Hi! I'm Jason Constam, a firmware engineer at [Levven Electronics](https://levven.com/).
+Hi! I'm Jason Constam, a firmware engineer at [Pegasus](https://www.pegasusimagery.com/).
 
 ## Languages and Tools
 
