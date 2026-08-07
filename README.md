@@ -1,6 +1,6 @@
 ## Hi There! :wave:
 
-Hi! I'm Jason Constam, a firmware engineer at [Pegasus](https://www.pegasusimagery.com/).
+Hi! I'm Jason Constam, a firmware engineer at [Pegasus](https://www.flypegasus.ai/).
 
 ## Languages and Tools
 
